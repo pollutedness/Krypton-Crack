@@ -1,4 +1,6 @@
 # Krypton-Crack
-Credits:
+#Credits:
+
 Walmart Solutions: Cracking
+
 Diedinturkey: leaking

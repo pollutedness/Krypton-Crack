@@ -1,5 +1,5 @@
 # Krypton-Crack
-#Credits:
+Credits:
 
 Walmart Solutions: Cracking
 

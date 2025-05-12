@@ -1,2 +1,4 @@
 # Krypton-Crack
-latest krypton client crack
+Credits:
+Walmart Solutions: Cracking
+Diedinturkey: leaking
